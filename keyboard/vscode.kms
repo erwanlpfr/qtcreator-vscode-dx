@@ -1,0 +1,60 @@
+<!DOCTYPE KeyboardMappingScheme>
+<mapping>
+ <shortcut id="QtCreator.Locate">
+  <key value="Ctrl+P"/>
+ </shortcut>
+ <shortcut id="QtCreator.Print">
+  <key value=""/>
+ </shortcut>
+ <shortcut id="TextEditor.FollowSymbolUnderCursor">
+  <key value="F12"/>
+ </shortcut>
+ <shortcut id="TextEditor.FindUsages">
+  <key value="Shift+F12"/>
+ </shortcut>
+ <shortcut id="CppEditor.RenameSymbolUnderCursor">
+  <key value="F2"/>
+ </shortcut>
+ <shortcut id="QtCreator.Goto">
+  <key value="Ctrl+G"/>
+ </shortcut>
+ <shortcut id="TextEditor.MoveLineUp">
+  <key value="Alt+Up"/>
+ </shortcut>
+ <shortcut id="TextEditor.MoveLineDown">
+  <key value="Alt+Down"/>
+ </shortcut>
+ <shortcut id="TextEditor.CopyLineUp">
+  <key value="Shift+Alt+Up"/>
+ </shortcut>
+ <shortcut id="TextEditor.CopyLineDown">
+  <key value="Shift+Alt+Down"/>
+ </shortcut>
+ <shortcut id="TextEditor.DeleteLine">
+  <key value="Ctrl+Shift+K"/>
+ </shortcut>
+ <shortcut id="TextEditor.InsertLineBelowCurrentLine">
+  <key value="Ctrl+Return"/>
+ </shortcut>
+ <shortcut id="TextEditor.InsertLineAboveCurrentLine">
+  <key value="Ctrl+Shift+Return"/>
+ </shortcut>
+ <shortcut id="QtCreator.ToggleLeftSidebar">
+  <key value="Ctrl+B"/>
+ </shortcut>
+ <shortcut id="ProjectExplorer.Build">
+  <key value="Ctrl+Shift+B"/>
+ </shortcut>
+ <shortcut id="ProjectExplorer.BuildSession">
+  <key value=""/>
+ </shortcut>
+ <shortcut id="ProjectExplorer.Run">
+  <key value="Ctrl+F5"/>
+ </shortcut>
+ <shortcut id="QtCreator.Options">
+  <key value="Ctrl+,"/>
+ </shortcut>
+ <shortcut id="QmlJSEditor.ReformatFile">
+  <key value="Ctrl+Shift+I"/>
+ </shortcut>
+</mapping>
