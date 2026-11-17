@@ -27,7 +27,8 @@ If Qt Creator lives somewhere else, set `QTC_PREFIX` (the install folder) and
 ## Shortcuts
 
 Ctrl+P, F12, Shift+F12, F2, Ctrl+G, Alt+Up/Down, Ctrl+Shift+K, Ctrl+B and
-Ctrl+Shift+B work like in VS Code. The full list is in `keyboard/vscode.kms`.
+Ctrl+Shift+B work like in VS Code, and so do the split editor shortcuts
+(Ctrl+\, Ctrl+K Ctrl+Left/Right). The full list is in `keyboard/vscode.kms`.
 Edit it to change them, or import it in Qt Creator if you only want the
 shortcuts.
 

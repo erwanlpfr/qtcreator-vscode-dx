@@ -36,6 +36,7 @@ FNR == NR {
 
   key = key_of($0)
   value = value_of($0)
+  gsub(/\\/, "\\\\", value)
   # Qt reads a bare comma as a list
   if (value ~ /,/) {
     value = "\"" value "\""

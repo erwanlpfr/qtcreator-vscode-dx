@@ -57,4 +57,46 @@
  <shortcut id="QmlJSEditor.ReformatFile">
   <key value="Ctrl+Shift+I"/>
  </shortcut>
+ <shortcut id="QtCreator.Split">
+  <key value="Ctrl+K, Ctrl+\"/>
+ </shortcut>
+ <shortcut id="QtCreator.SplitSideBySide">
+  <key value="Ctrl+\"/>
+ </shortcut>
+ <shortcut id="QtCreator.SplitNewWindow">
+  <key value="Ctrl+K, O"/>
+ </shortcut>
+ <shortcut id="QtCreator.RemoveCurrentSplit">
+  <key value="Ctrl+K, Ctrl+X"/>
+ </shortcut>
+ <shortcut id="QtCreator.RemoveAllSplits">
+  <key value="Ctrl+K, Ctrl+1"/>
+ </shortcut>
+ <shortcut id="QtCreator.GoToNextSplit">
+  <key value="Ctrl+K, Ctrl+Right"/>
+ </shortcut>
+ <shortcut id="QtCreator.GoToPreviousSplit">
+  <key value="Ctrl+K, Ctrl+Left"/>
+ </shortcut>
+ <shortcut id="QtCreator.CloseAll">
+  <key value="Ctrl+K, Ctrl+W"/>
+ </shortcut>
+ <shortcut id="QtCreator.CloseOthers">
+  <key value="Ctrl+K, Ctrl+O"/>
+ </shortcut>
+ <shortcut id="QtCreator.ToggleFullScreen">
+  <key value="Ctrl+K, Z"/>
+ </shortcut>
+ <shortcut id="QtCreator.ToggleRightSidebar">
+  <key value="Ctrl+Alt+B"/>
+ </shortcut>
+ <shortcut id="TextEditor.FollowSymbolUnderCursorInNextSplit">
+  <key value="Ctrl+K, F12"/>
+ </shortcut>
+ <shortcut id="CppTools.SwitchHeaderSource">
+  <key value="Ctrl+Shift+F4"/>
+ </shortcut>
+ <shortcut id="CppTools.OpenHeaderSourceInNextSplit">
+  <key value="F4"/>
+ </shortcut>
 </mapping>

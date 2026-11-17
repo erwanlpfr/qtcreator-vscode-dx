@@ -37,7 +37,7 @@ print_settings() {
   echo "[Core]"
   echo "CreatorTheme=$theme_name"
 
-  cat "$script_folder/settings/editor.ini"
+  cat "$script_folder/settings/qtcreator.ini"
 
   # Qt Creator reads shortcuts from both sections
   echo "[KeyboardShortcuts]"
